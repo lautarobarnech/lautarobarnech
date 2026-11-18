@@ -13,4 +13,4 @@ Universidad de la República (Uruguay).
 - Linux / WSL, Git
 - Security log analysis
 
-[bf]: https://github.com/lbarnech14-maker/bruteforce-detector
+[bf]: https://github.com/lautarobarnech/bruteforce-detector
