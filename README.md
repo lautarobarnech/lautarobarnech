@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Lautaro 👋
 
-<!--
-**lbarnech14-maker/lbarnech14-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student (3rd year) at
+Universidad de la República (Uruguay).
 
-Here are some ideas to get you started:
+## Currently building
+- **[bruteforce-detector][bf]** —
+  detects SSH brute-force attacks
+  by parsing `auth.log`. C++17.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+- C++ (STL, file I/O)
+- Linux / WSL, Git
+- Security log analysis
+
+[bf]: https://github.com/lbarnech14-maker/bruteforce-detector
